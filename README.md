@@ -54,4 +54,4 @@ You'll also notice a `images` folder inside the `prismic` folder. By the time I'
 
 # Credits
 
-That's all folks! I hope this repository might be useful for your learnings. When I was starting my career, I've learned a lot from [Bruno Imbrizi](https://github.com/brunoimbrizi/), [Giulian Drimba](https://github.com/giuliandrimba) and [Silvio Paganini](https://github.com/silviopaganini) public repositories, among many others public repositories made by incredible people. So I'm doing it too as a way to contribute with the growth of the community as well.
+That's all folks! I hope this repository might be useful for your learnings. When I was starting my career, I've learned a lot from [Bruno Imbrizi](https://github.com/brunoimbrizi/), [Giulian Drimba](https://github.com/giuliandrimba) and [Silvio Paganini](https://github.com/silviopaganini) public repositories, among many others public repositories made by incredible people. So I'm doing it too as a way to contribute with the growth of the community as well.fine
